@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-	printf("welcome to Git");
-	printf("welcome to Git tutorial");
+	printf("welcome to Github tutorial");
+	
 	return 0;
 }
 
